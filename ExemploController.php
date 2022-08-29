@@ -4,7 +4,7 @@ namespace Application\controllers;
 use Application\core\Controller;
 use Application\models\helper\Header;
 
-class TestEasyController extends Controller
+class ExemploController extends Controller
 {
     public function listing()
     {
